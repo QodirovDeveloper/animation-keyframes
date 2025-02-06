@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'MD Primer Test Regular';
+  font-style: normal;
+  font-weight: 400; /* Нормальный вес */
+  src: local('MD Primer Test Regular'), url('fonts/MDPrimerTest-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MD Primer Test Light';
+  font-style: normal;
+  font-weight: 300; /* Легкий вес */
+  src: local('MD Primer Test Light'), url('fonts/MDPrimerTest-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MD Primer Test Medium';
+  font-style: normal;
+  font-weight: 500; /* Средний вес */
+  src: local('MD Primer Test Medium'), url('fonts/MDPrimerTest-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MD Primer Test Semibold';
+  font-style: normal;
+  font-weight: 600; /* Полужирный вес */
+  src: local('MD Primer Test Semibold'), url('fonts/MDPrimerTest-Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MD Primer Test Bold';
+  font-style: normal;
+  font-weight: 700; /* Жирный вес */
+  src: local('MD Primer Test Bold'), url('fonts/MDPrimerTest-Bold.woff') format('woff');
+}
