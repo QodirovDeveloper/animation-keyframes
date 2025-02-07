@@ -15,7 +15,7 @@
 }
 .container
 {
-  max-width: 1000px;
+  max-width: 1500px;
   margin: 0 auto;
   width: 100%;
 }
@@ -84,7 +84,6 @@ body
 .line
 {
   display: flex;
-
 }
 .card
 {
@@ -119,7 +118,7 @@ body
   margin-left: -130px;
   box-shadow: -3rem 0 3rem -2rem #000;
 }
-
+/*  */
 .avatar
 {
   display: flex;
